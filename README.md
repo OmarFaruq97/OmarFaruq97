@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Omar Faruq  
 - 👀 I’m interested in ... Programming  
-- 🌱 I’m currently learning ... Java  
+- 🌱 I’m currently learning ... Java
+- 💬 Ask me about: HTML, CSS, Bootstraps, JavaScript, Oracle SQL  
 - 🗣️ I can speak, write, read, and understand the Korean language  
 - 📫 How to reach me ... omarfaruq9723@gmail.com or rihafaruq@gmail.com  
 <!---
